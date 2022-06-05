@@ -1,2 +1,2 @@
-# Space-Torusim
+# Space-Tourism
 Space tourism multi-page website
